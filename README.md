@@ -11,7 +11,7 @@ Hello! I'm a passionate **Full-Stack Developer** focused on building scalable an
 - 🌱 I’m currently exploring **advanced web architectures, cloud technologies, and system design**  
 - 💬 Ask me about **Java, Spring Boot, Angular, and DSA**  
 - 📫 How to reach me: **nazeer.dev@hotmail.com**  
-- 📄 Check out my resume: [Resume Link](https://portfolio-ten-sand-j2awp3i6nd.vercel.app/nazeer_resume..pdf)
+- 📄 Check out my resume: [Resume Link](https://portfolio-ten-sand-j2awp3i6nd.vercel.app/nazeer_resume.pdf)
 
 ---
 
